@@ -22,7 +22,7 @@ timer(100/*ms*/, 'ok').then(function (v) {
 });
 ```
 
-### times(time, ...)
+### timer(time, ...)
 
 * `time` Number -- delay of promise resolve in milliseconds
 * ... -- resolve arguments
