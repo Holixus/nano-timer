@@ -8,6 +8,8 @@
 
 # nano-timer
 
+[![Join the chat at https://gitter.im/Holixus/nano-timer](https://badges.gitter.im/Holixus/nano-timer.svg)](https://gitter.im/Holixus/nano-timer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A delayed Promise.
 
 ## API
